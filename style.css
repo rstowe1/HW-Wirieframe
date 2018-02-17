@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background: #777;
+    line-height: 22px;
+}
+
+
+header {
+    background: #ebebeb;
+    height: 60px;
+    width: 70%;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+
+nav {
+    background: #ebebeb;
+    height: 60px;
+    width: 70%;
+    margin-bottom: 15px;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.section {
+    float: left;
+    margin-left: 127px;
+    margin-right: 3px;
+    margin-bottom: 5px;
+    padding-bottom: 50px;
+    background:#ebebeb;
+    width: 35%;
+    height: 250px;
+    
+}
+
+.aside {
+    float: right;
+    margin-right: 254px;
+    margin-left: 3px;
+    background:#ebebeb;
+    width:34%;
+    height: 300px;
+}
+
+.article {
+    position: absolute;
+    margin-top: 25px;
+    height: 210px;
+    background: #777;
+
+}
+article {
+    background: #777;
+    border: #777;
+    margin-left:36px;
+    width: 30%;
+}
+
+heading {
+    border: 1px;
+    background: #ebebeb;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom:5px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.info {
+    background: #ebebeb;
+    margin-top: 10px;
+    width: 90%;
+    height: 160px;
+    margin-left: 20px;
+    line-height: 30px;
+}
+.micro {
+    background: #777;
+    color: #ebebeb;
+    margin-top: 10px;
+    width: 70%;
+    height: 90px;
+    margin-left: 50px;
+    line-height: 25px;
+}
+p {
+    color: #777;
+    border: 1px;
+    background: #ebebeb;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-bottom:3px;
+}
+
+footer {
+    position:fixed;
+    bottom:5px;
+    left:0px;
+    right:0;
+    background: #ebebeb;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    height: 60px;
+    width: 70%;
+    margin-left:10%;
+    margin-right:10%;
+}
